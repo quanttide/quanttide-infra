@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 
+- data/profile 清空示例骨架（IaaS/PaaS/SaaS 占位、index、CHANGELOG、Jupyter Book 配置与发布流水线），配置改用 myst.yml，新增 quanttide-founder/suanjiayun.md（算家云基础设施配置方案）。
 - 新增 data/library（quanttide-library-of-infrastructure），迁入自创始人素材库的阿里云与密钥管理参考。
 
 - 注册六个子模块（早期仓库名 `*-of-cloud-computing`，随领域规范统一改为 `*-of-infrastructure` 后入库）：`data/profile`、`docs/tutorial`、`docs/handbook`、`docs/specification`、`docs/gallery`（原 usercase）、`docs/essay`（原 industry-report）；README 由「待补充」改为数据/文档两表
