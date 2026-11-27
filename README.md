@@ -22,6 +22,12 @@ IaaS 与云服务的架构、运维与标准化。
 | `docs/essay` | 基础设施札记 (git submodule → quanttide-essay-of-infrastructure) |
 | `docs/gallery` | 基础设施案例集 (git submodule → quanttide-gallery-of-infrastructure) |
 
+## 实验室
+
+| 路径 | 说明 |
+|------|------|
+| `examples/quanttide-infra-lab` | 基础设施实验室 (git submodule → quanttide-infra-lab)，现收算家云一键 CLI |
+
 ## 许可
 
 [CC BY 4.0](LICENSE)

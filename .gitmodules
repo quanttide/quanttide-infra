@@ -22,3 +22,6 @@
 [submodule "data/library"]
 	path = data/library
 	url = https://github.com/quanttide/quanttide-library-of-infrastructure.git
+[submodule "examples/quanttide-infra-lab"]
+	path = examples/quanttide-infra-lab
+	url = https://github.com/quanttide/quanttide-infra-lab.git

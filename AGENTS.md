@@ -23,7 +23,7 @@
 
 ## 算家云操作
 
-算家云容器中心的实例操作走 `apps/suanjiayun/suanjiayun.py`（login / areas / nodes / images / up / down / list …），不手动点控制台；接口清单、首创建验证码闸门与实证状态见 `apps/suanjiayun/README.md`。凭证只走 SUANJIAYUN_USERNAME / SUANJIAYUN_PASSWORD 环境变量，不入仓；会话缓存在 ~/.config/suanjiayun/。
+算家云容器中心的实例操作走 `examples/quanttide-infra-lab/src/suanjiayun/suanjiayun.py`（login / areas / nodes / images / up / down / list …），不手动点控制台；接口清单、首创建验证码闸门与实证状态见同目录 README。凭证只走 SUANJIAYUN_USERNAME / SUANJIAYUN_PASSWORD 环境变量，不入仓；会话缓存在 ~/.config/suanjiayun/。
 
 ## 提交与推送
 
