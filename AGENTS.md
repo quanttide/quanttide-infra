@@ -21,6 +21,10 @@
 
 文件夹与命名由用户定。用户定的文件夹名、模块名与术语不得改；发现名不副实，先说，不自行改。
 
+## 算家云操作
+
+算家云容器中心的实例操作走 `apps/suanjiayun/suanjiayun.py`（login / areas / nodes / images / up / down / list …），不手动点控制台；接口清单、首创建验证码闸门与实证状态见 `apps/suanjiayun/README.md`。凭证只走 SUANJIAYUN_USERNAME / SUANJIAYUN_PASSWORD 环境变量，不入仓；会话缓存在 ~/.config/suanjiayun/。
+
 ## 提交与推送
 
 提交后默认推送到远端，无需等待用户确认。
