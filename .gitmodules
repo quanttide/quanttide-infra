@@ -19,3 +19,6 @@
 [submodule "docs/essay"]
 	path = docs/essay
 	url = https://github.com/quanttide/quanttide-essay-of-infrastructure.git
+[submodule "data/library"]
+	path = data/library
+	url = https://github.com/quanttide/quanttide-library-of-infrastructure.git

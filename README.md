@@ -10,6 +10,7 @@ IaaS 与云服务的架构、运维与标准化。
 |------|------|
 | `data/context` | 基础设施语境 (git submodule → quanttide-context-of-infrastructure) |
 | `data/profile` | 基础设施档案 (git submodule → quanttide-profile-of-infrastructure) |
+| `data/library` | 基础设施素材库 (git submodule → quanttide-library-of-infrastructure) |
 
 ## 文档
 
